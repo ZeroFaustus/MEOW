@@ -5,8 +5,8 @@
     
     <entry>
       <title>远冬</title>
-      <link href="/2024/08/16/%E8%BF%9C%E5%86%AC/"/>
-      <url>/2024/08/16/%E8%BF%9C%E5%86%AC/</url>
+      <link href="/MEOW/2024/08/16/%E8%BF%9C%E5%86%AC/"/>
+      <url>/MEOW/2024/08/16/%E8%BF%9C%E5%86%AC/</url>
       
         <content type="html"><![CDATA[<p>早已习惯了在不同的场景下醒来。这一次是颠簸的大巴，我甚至感到了新奇。我抬头看着数显屏上的站点：下一站是远冬，终点站也是远冬。一些黑色的人沉默地坐在座位上，车厢里回荡着雨声。</p><p>弥漫着的昏暗蓝色令我感到放松，很渺远的地方传来了谈笑声，像是过年时在房间里听见亲戚在门外筹备年夜饭、而我还可以再赖一会儿床。终点站到了，所有的声音都戛然而止。红色的按钮亮起来，人们陆陆续续地下车，我默默混入其中，跟随着鱼贯而行的队伍。</p><p>远冬没有陆地，只有一望无际的海、冰川、凝结的云。环流与湍流簇拥着雪白的鱼群，我不禁想起对鱼群的形容——a school of fish。这是很久远的语言，在繁城从未听闻，却在远冬盛行。<br>远冬——与世隔绝了很久、很久。</p><p>一切时间的流逝都变得模糊，过去、现在与未来失去了边界。世人宣扬着远冬的寂静无趣，吟游诗人也没能传颂出真实的远冬。只有身处远冬的人才能真正明白到远东的鲜活，晨时清透寒凉含氧量充足的空气；教堂琉璃窗分隔开阳光；飞鸟盘旋在街头巷尾的雕塑之上——如同燕子与她的快乐王子；天空没入黑暗时才逐渐被点亮的星河。总有放纵者不顾宵禁踱到冰河上看星星，远冬有远冬的浪漫。<br>只有融入黑暗中去，星光才会渐渐变得明晰——远冬的人说。<br>曾经的我也这么说。</p><p>我仿佛已经在远冬许久。</p><p>直到耳畔响起Russian Red的歌曲，loving strangers的旋律yuyi而缱绻，舷窗外唯一的一颗星子熠熠生辉，我明白，我已经离开了远冬。</p>]]></content>
       
@@ -18,8 +18,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/2024/08/16/hello-world/"/>
-      <url>/2024/08/16/hello-world/</url>
+      <link href="/MEOW/2024/08/16/hello-world/"/>
+      <url>/MEOW/2024/08/16/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
